@@ -1,0 +1,23 @@
+Git is a Version Controll System like Tool
+
+git --version 
+Git Hub --> is a Platform there all work done as a git also Give Inrerface. create, store, manage, and share their code
+GitLab--> Mange Coding 
+Bitbucket
+SCM --> Above all are as a Sourece Code Managment
+
+git init --> Create Git Initilaze on Local System
+git add filename --> Add File or Data on Stage 
+git status --> Check Status
+git commit -m "Test"--> Commitment
+git push file --> Push Data on Git Hub
+git pull file --> Pull File from Git Hub to Local System
+rm filename--> remove file from Local
+git restore filename--> Restore file from Stage
+git clone "Repository url" --> Clone Project copy on Local Syetm
+git fork --> Click on Git hub user the Repository and click on Fork for Git hub user to user Repository 
+
+git config --global user.name "Your Name" --> Add remote hub user in Git
+git config --global user.email "email" --> Add Email to Git hub in Project
+git config --list --> Verify Git user and email saved or not
+
